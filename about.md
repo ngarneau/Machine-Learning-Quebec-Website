@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-Some information about you!
+Club de machine learning de la ville de Québec. On organise des workshops, meetups et keynotes sur le domaine très large de l'intelligence artificielle. Pour les étudiants et les gens de l'industrie :)
 
-### More Information
+### Nous contacter
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Pour proposer un talk, thème ou autre, envoyé nous un [courriel](mailto:nicolas.garneau.1@ulaval.ca)!
