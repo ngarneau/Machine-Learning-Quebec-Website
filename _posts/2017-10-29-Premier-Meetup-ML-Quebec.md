@@ -14,7 +14,7 @@ Voici le détail des présentations;
 
 ## Réseaux de neurones
 ### Guillaume Chevalier
-#### Étudiant à la maîtrise au Baccalauréat en Génie Logiciel
+#### Étudiant au Baccalauréat en Génie Logiciel
 
 Ce workshop de Guillaume Chevalier porte sur les réseaux de neurones artificiels, plus spécifiquement, les réseaux de neurones récurrents (RNNs). Premièrement, la théorie nécessaire à une compréhension de base sera couverte. Deuxièmement, les participants sont amenés à expérimenter avec les LSTMs (un RNN amélioré), avec Python. Pour obtenir le code et installer les dépendances nécessaires, référez-vous à : https://github.com/CFI-UL/presentations/tree/master/guillaume.chevalier/workshop/lstm-rnn
 
