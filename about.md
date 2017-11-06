@@ -8,4 +8,4 @@ Club de machine learning de la ville de Québec. On organise des workshops, meet
 
 ### Nous contacter
 
-Pour proposer un talk, thème ou autre, envoyé nous un [courriel](mailto:nicolas.garneau.1@ulaval.ca)!
+Pour proposer un talk, thème ou autre, envoyez nous un [courriel](mailto:nicolas.garneau.1@ulaval.ca)!
