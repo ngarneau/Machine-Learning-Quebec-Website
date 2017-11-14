@@ -5,7 +5,7 @@ title: Premier Meetup Machine Learning Québec
 
 Pour la première édition des Meetups Machine Learning Québec nous aurons droit à 3 talks très intéressants!
 
-- Local: PLT-2750 (Adrien Pouliot, Université Laval)
+- Local: PLT-~~2750~~ 2341 (Adrien Pouliot, Université Laval)
 - Heure: 18h30 @ 20h30
 - Discussions et Drinks au Fou Aliés
 - Prix de présence!
